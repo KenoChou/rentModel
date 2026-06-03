@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Rent Model">
+  <defs>
+    <linearGradient id="g" x1="10" y1="10" x2="54" y2="54" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5de6ff" />
+      <stop offset="1" stop-color="#7c5cff" />
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="18" fill="#0d1730" />
+  <path d="M14 44V18h18c6.7 0 11 3.7 11 9.4 0 3.8-1.9 6.8-5.1 8.3L50 44H38.7l-9.9-7.1h-4.3V44H14Zm10.5-15.2h6.3c1.8 0 2.9-.9 2.9-2.5 0-1.5-1.1-2.4-2.9-2.4h-6.3v4.9Z" fill="url(#g)" />
+</svg>
